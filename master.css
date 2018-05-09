@@ -1,0 +1,68 @@
+img{
+  height: 100px;
+  width: 100px;
+  position: relative;
+  /*margin-top: -900px;*/
+  top: -200px;  
+}
+#wrap{
+  width: 500px;
+  height: 600px;
+
+
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.kombinacija{
+  width: 500px;
+  height: 100px;
+  border: solid black 1px;
+  box-sizing: border-box;
+  float: left;
+  background: silver;
+}
+.element{
+  width: 60px;
+  height: 100px;
+  box-sizing: border-box;
+  border: solid black 1px;
+  float: left;
+  background: silver;
+  text-align: center;
+  line-height: 50px;
+  font-size: 2.5em;
+}
+.odabir_znaka{
+  width: 60px;
+  height: 100px;
+  box-sizing: border-box;
+  border: solid black 1px;
+  float: left;
+  background: silver;
+}
+.tacno_netacno{
+  width: 198px;
+  height: 100px;
+  box-sizing: border-box;
+  border: solid black 1px;
+  float: left;
+  background: silver;
+}
+.znak{
+  width: 29px;
+  height: 33px;
+  box-sizing: border-box;
+  border: solid black 1px;
+  float: left;
+  cursor: pointer;
+}
+.kruzic{
+  height: 30px;
+  width: 30px;
+  border: solid black 1px;
+  border-radius: 50%;
+  float: left;
+  line-height: 30px;
+  margin-top: 30px;
+  margin-left: 15px;
+}
